@@ -11,7 +11,35 @@
     "href": "aboutme.html",
     "title": "About me",
     "section": "",
-    "text": "Add some text and a figure describing myself.\nFor details, see the instructions."
+    "text": "Hello! My name is Rebecca Basta and I am a Bioinfomratics Master’s student. I graduated from the University of Georgia with a B.S. in Biochemistry and Molecular Biology and was part of the Double Dawgs program."
+  },
+  {
+    "objectID": "aboutme.html#background",
+    "href": "aboutme.html#background",
+    "title": "About me",
+    "section": "Background",
+    "text": "Background\nI am not currently in a research lab, I have past experience working in labs throughout undergrad. I have experience with C++ and Python. I have basic data analysis experience with these languages."
+  },
+  {
+    "objectID": "aboutme.html#statistical-background",
+    "href": "aboutme.html#statistical-background",
+    "title": "About me",
+    "section": "Statistical Background",
+    "text": "Statistical Background\nI am currently enrolled in BIOS7010, I have previously taken Statistical Inference for the Life Sciences (BINF 8441). This course introduced topics such as probability, maximum liklihood, and Bayesian inference."
+  },
+  {
+    "objectID": "aboutme.html#hopes-for-this-class",
+    "href": "aboutme.html#hopes-for-this-class",
+    "title": "About me",
+    "section": "Hopes For This Class",
+    "text": "Hopes For This Class\nI hope to learn how to design reproducible workflows. I would like to learn how to apply statistical modeling techniques to real-world datasets. Lastly, I am interested in learning how to effectivley communicate complex analyses."
+  },
+  {
+    "objectID": "aboutme.html#link",
+    "href": "aboutme.html#link",
+    "title": "About me",
+    "section": "Link",
+    "text": "Link\nhttps://eyes.nasa.gov/apps/asteroids/#/home\nThis website presents a very visually engaging example of how data analysis and visualization are important. This animation shows different asteriods that have been observed in space the past eight months, and expected asteriods that are expected in the next eight months."
   },
   {
     "objectID": "index.html",

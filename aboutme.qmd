@@ -2,6 +2,23 @@
 title: "About me"
 ---
 
-Add some text and a figure describing myself.
+![](Picture.JPG){fig-alt="Alt text"}
+Hello! My name is Rebecca Basta and I am a Bioinfomratics Master's student. I graduated from the University of Georgia with a B.S. in Biochemistry and Molecular Biology and was part of the Double Dawgs program.
 
-For details, see the instructions. 
+## **Background**
+
+I am not currently in a research lab, I have past experience working in labs throughout undergrad. I have experience with C++ and Python. I have basic data analysis experience with these languages.
+
+## **Statistical Background**
+
+I am currently enrolled in BIOS7010, I have previously taken Statistical Inference for the Life Sciences (BINF 8441). This course introduced topics such as probability, maximum liklihood, and Bayesian inference.
+
+## **Hopes For This Class**
+
+I hope to learn how to design reproducible workflows. I would like to learn how to apply statistical modeling techniques to real-world datasets. Lastly, I am interested in learning how to effectivley communicate complex analyses.
+
+## **Link**
+
+[https://eyes.nasa.gov/apps/asteroids/#/home](link)
+
+This website presents a very visually engaging example of how data analysis and visualization are important. This animation shows different asteriods that have been observed in space the past eight months, and expected asteriods that are expected in the next eight months.

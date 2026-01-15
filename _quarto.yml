@@ -17,8 +17,8 @@ website:
         href: https://github.com/rebeccabasta/rebeccabasta-portfolio       
 format:
   html:
-    theme: minty
-    highlight: zenburn
-    css: styles.css
-    toc: FALSE
-    self-contained: true
+      self-contained: true
+      theme: minty
+      highlight: zenburn
+      css: styles.css
+      toc: FALSE
