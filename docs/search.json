@@ -54,26 +54,5 @@
     "title": "My website and data analysis portfolio",
     "section": "",
     "text": "Hello\n\nAnd hello again\nWelcome to my website and data analysis portfolio.\n\nPlease use the Menu Bar above to look around.\nHave fun!"
-  },
-  {
-    "objectID": "ready-exercise.html",
-    "href": "ready-exercise.html",
-    "title": "READy Exercise",
-    "section": "",
-    "text": "#| label: setup #| echo: TRUE # Load necessary packages library(ggplot2) library(dplyr) library(broom) library(here)\n\nLoad your processed data\nmydata &lt;- readRDS(here(“data”, “processed-data”, “processeddata.rds”))\n\n\nMake sure the new variables exist\n\n\nHere we create example variables if they don’t exist yet\nif(!“StudyTime” %in% names(mydata)){ mydata\\(StudyTime &lt;- sample(0:20, nrow(mydata), replace = TRUE)\n}\nif(!\"ExerciseTime\" %in% names(mydata)){\n  mydata\\)ExerciseTime &lt;- sample(0:10, nrow(mydata), replace = TRUE) }"
-  },
-  {
-    "objectID": "ready-exercise.html#methods",
-    "href": "ready-exercise.html#methods",
-    "title": "Example Report Template for a Data Analysis Project",
-    "section": "",
-    "text": "The dataset was loaded from the processed-data folder using the here package. Linear regression models were fit using the lm() function.\nThe first model is a linear model with height as the outcome and weight as the predictor. The second one is a multiple linear model with height as the outcome and weight and gender as predictors. The third one is a five linear model with height as the outcome and study time and exercise time as predictors.\nModel results were cleaned up using the broom package and saved as RDS files in the results/tables folder. Figures generated during analysis were saved to the results/figures folder."
-  },
-  {
-    "objectID": "ready-exercise.html#results",
-    "href": "ready-exercise.html#results",
-    "title": "Example Report Template for a Data Analysis Project",
-    "section": "2 Results",
-    "text": "2 Results\nlibrary(here) library(tidyverse) library(broom) library(knitr)"
   }
 ]
