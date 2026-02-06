@@ -16,6 +16,8 @@ website:
             file: starter-analysis-exercise/starter-analysis-exercise.qmd
           - text: "READy Exercise"
             href: ready-exercise/
+          - text: "Data Exercise"
+            file: data-exercise/data-exercise.qmd
     right:
       - icon: github 
         href: https://github.com/rebeccabasta/rebeccabasta-portfolio       
