@@ -18,6 +18,9 @@ website:
             href: ready-exercise/
           - text: "Data Exercise"
             file: data-exercise/data-exercise.qmd
+          - text: "Data Analysis Exercise"
+            file: cdcdata-exercise/cdcdata-exercise.qmd
+          
     right:
       - icon: github 
         href: https://github.com/rebeccabasta/rebeccabasta-portfolio       
